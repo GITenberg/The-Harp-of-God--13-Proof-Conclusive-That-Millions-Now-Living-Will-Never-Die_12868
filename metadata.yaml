@@ -1,0 +1,27 @@
+_repo: The-Harp-of-God--13-Proof-Conclusive-That-Millions-Now-Living-Will-Never-Die_12868
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rutherford, J. F. (Joseph Franklin)
+    alias: Rutherford, Joseph Franklin
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '4679'
+    url: http://www.gutenberg.org/2009/agents/4679
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Franklin_Rutherford
+description: ''
+gutenberg_issued: '2004-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12868'
+  lccn: '21021220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Jehovah''s witnesses -- Controversial literature'
+- GITenberg
+title: "The Harp of God\r\nProof Conclusive That Millions Now Living Will Never Die"
+url: http://www.gutenberg.org/ebooks/12868
